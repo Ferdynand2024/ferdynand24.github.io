@@ -1,0 +1,108 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+.navbar,
+.card {
+    background-color: #222;
+    color: #fff;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #fff !important;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+}
+
+.navbar-toggler .navbar-toggler-icon {
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+.btn {
+    color: #fff !important;
+}
+.badge {
+    color: #fff !important;
+}
+
+.text-secondary,
+.text-body-tertiary {
+    color: #adb5bd !important;
+}
+
+.bg-light {
+    background-color: #343a40 !important;
+    color: #fff;
+}
+
+.text-bg-light {
+    background-color: #6c757d !important;
+    color: #fff;
+}
+
+.bg-white {
+    background-color: #222 !important;
+    color: #fff;
+}
+
+.text-bg-light {
+    background-color: #444 !important;
+    color: #fff;
+}
+
+.badge {
+    background-color: #444;
+    color: #fff;
+}
+
+footer {
+    background-color: #111;
+}
+
+.modal-content {
+    background-color: #222;
+    color: #fff;
+}
+
+.modal-header {
+    border-bottom: 1px solid #444;
+}
+
+.modal-footer {
+    border-top: 1px solid #444;
+}
+
+.border-success-subtle {
+    border-color: #28a745 !important;
+}
+
+.border-primary-subtle {
+    border-color: #007bff !important;
+}
+
+.border-dark {
+    border-color: #343a40 !important;
+}
+
+.border-danger-subtle {
+    border-color: #dc3545 !important;
+}
+
+.border-0 {
+    border: none;
+}
+
+.rounded-4 {
+    border-radius: .5rem;
+}
